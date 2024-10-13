@@ -1,7 +1,8 @@
 # Star Ratings App
 
 ## Description
-L'application Star Ratings permet aux utilisateurs d'évaluer des livres à l'aide d'un système de notation par étoiles.  Les utilisateurs peuvent donner une note à chaque livre.
+L'application Star Ratings permet aux utilisateurs d'évaluer des livres à l'aide d'un système de notation par étoiles.  
+Les utilisateurs peuvent donner une note à chaque livre.
 
 ## Fonctionnalités
 - **Affichage des livres** : L'application affiche une liste de livres avec leurs couvertures et notes.
@@ -11,7 +12,7 @@ L'application Star Ratings permet aux utilisateurs d'évaluer des livres à l'ai
 
 ## Fonctionnalité supplémentaire
 - **Suppression des livres** : Les utilisateurs peuvent supprimer un livre à partir d'un `AlertDialog`.
-- 
+  
 ## Technologies Utilisées
 - Android SDK
 - Java
@@ -32,7 +33,7 @@ Pour exécuter cette application sur votre propre appareil Android, suivez les �
 <img src="images/splashScreen.jpg" alt="Écran de démarrage" width="300" height="600"/>
 
 ### Liste des livres
-<img src="images/bookList.png" alt="Liste des livres" width="300" height="600"/>
+<img src="images/bookStarList.png" alt="Liste des livres" width="300" height="600"/>
 
 ### Barre de recherche
 <img src="images/searchScreen.png" alt="Barre de recherche" width="300" height="600"/>
@@ -43,5 +44,7 @@ Pour exécuter cette application sur votre propre appareil Android, suivez les �
 ### Ecran de Partage
 <img src="images/shareScreen.png" alt="Ecran de Partage" width="300" height="600"/>
 
+## Video Démonstrative
+[Demo video] (https://drive.google.com/file/d/1A_JQcXRPtDBvh9tMOThcu9alSCPa9zjy/view?usp=sharing)
 
 
